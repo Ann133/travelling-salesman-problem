@@ -1,5 +1,4 @@
-[19317511.pdf](https://github.com/Ann133/travelling-salesman-problem/files/7003272/19317511.pdf)
-# travelling-salesman-problem
+# Travelling Salesman Problem
 A project completed in my second year of Computer Science &amp; Software Engineering to tackle the travelling salesman problem. 
 
 This is a project created for the CS211 Algorithms & Data Structures 2 module. 
